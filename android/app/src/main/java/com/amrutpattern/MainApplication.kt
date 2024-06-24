@@ -1,4 +1,4 @@
-package com.amrutpattern
+package com.amrutpattern.agro
 
 import android.app.Application
 import com.facebook.react.PackageList

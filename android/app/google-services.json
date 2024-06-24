@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "545792901589",
+    "project_id": "amrut-pattern",
+    "storage_bucket": "amrut-pattern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545792901589:android:7ad9fc09de12713883bd5c",
+        "android_client_info": {
+          "package_name": "com.amrutpattern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545792901589-cr4o34capvrt5km88ci2v5i5jp27elr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK9dgvVgwxDTttjlPCUJ6M_p_p9WTydG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545792901589-cr4o34capvrt5km88ci2v5i5jp27elr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545792901589:android:45a45bc2f31c591483bd5c",
+        "android_client_info": {
+          "package_name": "com.amrutpattern.agro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545792901589-cr4o34capvrt5km88ci2v5i5jp27elr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK9dgvVgwxDTttjlPCUJ6M_p_p9WTydG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545792901589-cr4o34capvrt5km88ci2v5i5jp27elr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

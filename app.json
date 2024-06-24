@@ -1,4 +1,7 @@
 {
   "name": "AmrutPattern",
-  "displayName": "AmrutPattern"
+  "displayName": "AmrutPattern",
+  "react-native-google-mobile-ads": {
+  "android_app_id": "ca-app-pub-1395130423965461~5686796518"
+}
 }

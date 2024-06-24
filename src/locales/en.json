@@ -1,0 +1,101 @@
+{
+    "navigator": {
+        "chat": "Chats",
+        "newChat": "Create Chat",
+        "account": "Account Details",
+        "term": "Terms & Conditions",
+        "faq": "Frequently Asked Questions",
+        "crops": "Add Crops",
+        "crop_detail": "About Crop",
+        "privacy": "Privacy Policy",
+        "my_crops": "My Crops",
+        "protection": "Crops Protection Details",
+        "news_detail": "News Description",
+        "payment": "Subscription",
+        "about": "About us",
+        "subscription_list": "Subscription List",
+        "Subscribed_Details" : "Subscribed Details",
+        "Payment_List" : "Payment List",
+        "gallery": "Gallery",
+        "login": "Amrut Pattern Login",
+        "otp": "Verify OTP",
+        "news": "News",
+        "log_out": "Log Out",
+        "home": "Home",
+        "drawerfaq":"FAQ",
+        "home_title": "Amrut Pattern",
+        "logout_text": "Do you realy want to log out?",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "home": {
+        "fav_crop": "Favourite Crop",
+        "news": "Protection",
+        "crops": "Crops",
+        "subscription": "Subscription",
+        "add_crop":"Add Crops",
+        "see_more": "See More",
+        "gallery": "Gallery",
+        "videos": "Videos",
+        "all_crops": "All Crops"
+    },
+    "my_crop":{
+        "add_crop": "Add Crop",
+        "subscribed": "Subscribed Crop",
+        "info": "Get Personalized information for the crops you grow.",
+        "no_crop": "No crops added",
+        "no_payment": "You don't have payment list.",
+        "delete": "Delete",
+        "delete_text": "Do you Really want to remove from favourite list ?",
+        "yes":"Yes",
+        "no":"No"
+    },
+    "subscription": {
+        "button": "SUBSCRIBE",
+        "subscribed": "Subscribed",
+        "not_subscribed": "Not Subscribed",
+        "expire": " Days Left",
+        "paid": "Paid",
+        "price": "Price",
+        "total" : "Total",
+        "days" : "Days",
+        "PaymentBtn":"Pay Now"
+    },
+    "chat": {
+        "crops":"Crop list",
+        "select_crop": "Select Crop",
+        "subject": "Subject",
+        "sub_placeholder": "Enter subject",
+        "message": "Message",
+        "message_place": "Enter your message",
+        "button": "Start Chat",
+        "no_chat": "You don't have any chats lets creat new one",
+        "no_sub_crop": "You don't have any subscription, lets subscribe to explore chats"
+    },
+    "add_crop":{
+        "search": "Search here...",
+        "add":"ADD CROP"
+    },
+    "account":{
+        "name":"Enter your name",
+        "district": "District",
+        "taluka": "Taluka",
+        "village": "Village",
+        "password": "Enter new password",
+        "agree": "I agree to ",
+        "term": "terms of service ",
+        "and": "and ",
+        "privacy": "privacy plicy",
+        "hiex": ".",
+        "button": "Submit",
+        "note": "Note",
+        "password_message": "If you don't want change password leave blank."
+    },
+    "language":{
+        "ok": "Ok",
+        "select_language": "Select the Language"
+    },
+    "video":{
+        "no_video": "No Videos Available"
+    }
+}
